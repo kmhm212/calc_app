@@ -1,23 +1,3 @@
-<?php
-
-
-switch ($calc) {
-    case 'addition':
-        $result = $num1 + $num2;
-        break;
-    case 'subtraction':
-        $result = $num1 - $num2;
-        break;
-    case 'multiplication':
-        $result = $num1 * $num2;
-        break;
-    case 'division':
-        $result = $num1 / $num2;
-        break;
-}
-
-?>
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
